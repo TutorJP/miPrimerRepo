@@ -7,3 +7,5 @@ Esta es la primera contribución desde mi repositorio local a mi repositorio rem
 Esta es una contribución construida en el repositorio remoto de GitHub.
 
 Esta es una nueva contribucuón construida en el erepositorio remoto.
+
+Este es un cambio realizado desde la rama local llamada developer01
